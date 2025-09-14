@@ -1,7 +1,7 @@
 <h1 align="center"> Hi, I'm Erdem 👋! </h1>
 <p align="center">
   <i>A passionate developer with a background in cyber security, AI and web developing.</i><br/>
-  🎓 Computer Engineering at <b>EMU</b> (GPA: 3.56)
+  🎓 Computer Engineering at <b>EMU</b> (GPA: 3.43)
 </p>
 
 ---
